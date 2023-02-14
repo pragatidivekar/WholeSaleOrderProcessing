@@ -1,5 +1,5 @@
 # WholeSaleOrderProcessing
-It's guided project where I created Alteryx workflow for Data Warehouse.
+It's a guided project where I created Alteryx workflow for Data Warehouse.
 - Task included following:
   1. Update the Existing Data Warehouse Orders table with the latest POS orders, placed in August 2021.
 
